@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test18_WriteToFile</string>
+    <string name="write_to_file">Write To File</string>
+    <string name="read_from_file">Read From File</string>
+</resources>
